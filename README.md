@@ -2,7 +2,7 @@
 A Web App that filters search results based on users input
 
 ## Overview
-![screenshot](https://github.com/ibktommy/VLV-Relaxation/blob/master/screenshot.png)
+![screenshot](https://github.com/ibktommy/search-input-filter-JS/blob/master/screenshot.png)
 
 ## How to view the project locally with a browser
 
