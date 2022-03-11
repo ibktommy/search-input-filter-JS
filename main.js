@@ -1,3 +1,4 @@
+// Set Variables
 const cardBox = document.querySelector(".card-box");
 const searchInput = document.querySelector("#searchBar");
 
