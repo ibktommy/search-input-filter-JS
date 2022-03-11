@@ -11,9 +11,10 @@ A Web App that filters search results based on users input
 <li> Make sure your internet connection is enabled as this project makes use of resources from an external server</li>
 <li> In case of any other issues, be free to reach out to me possibly on linkedIn. Thanks!</li>
 
-## This is a web app project that I initially did in React course.
+## This is a web app project that I initially did in a React course.
 
-I got the idea to do the project using Vanilla Javascript. <br>
+## I got the idea to do the project using Vanilla Javascript.
+
 In the course of doing the project, I did the following tasks: <br>
 <li>I created the HTML markup for the web app and I styled it using CSS Flexbox and GRID. <br>
 <li>In my JS code, I set my variables of the "card-container" and "search-input".</li>
